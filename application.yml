@@ -1,1 +1,9 @@
-
+management:
+  security:
+    enabled: false
+    
+    
+name: sya
+    
+server:
+  port: 8100
