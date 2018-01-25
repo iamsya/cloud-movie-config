@@ -3,7 +3,7 @@ management:
     enabled: false
     
     
-name: sya
+name: sya4040
     
 server:
   port: 8100
